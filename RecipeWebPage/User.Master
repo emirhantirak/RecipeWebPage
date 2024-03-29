@@ -1,0 +1,154 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="User.master.cs" Inherits="RecipeWebPage.User" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <link href="UserStyleSheet.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            font-weight: 700;
+            height: 38px;
+        }
+
+        .auto-style2 {
+            text-align: center;
+            background-color: #0fefcc;
+        }
+        .auto-style3 {
+            font-size: large;
+        }
+        .auto-style4 {
+            width: 100%;
+        }
+
+        .auto-style7 {
+            text-align: center;
+            background-color: #CCCCCC;
+        }
+    
+        .auto-style6 {
+            font-size: medium;
+        }
+
+        .auto-style5 {
+            text-align: center;
+        }
+
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="height: 150px; width: 900px; margin-left: 500px; background-color: #0099CC;">
+            <div class="auto-style5">
+
+                <asp:Image ID="Image2" runat="server" Height="147px" ImageUrl="https://i.hizliresim.com/946rqj7.jpg" Width="895px" />
+
+            </div>
+        </div>
+        <div style="height: 25px; width: 900px; margin-left: 500px">
+        </div>
+        <div style="height: 40px; width: 900px; margin-left: 500px; background-color: #fff;">
+            <table class="auto-style1" align="center">
+                <tr>
+                    <td class="auto-style2"><a href="HomePage.aspx">HOME PAGE</a></td>
+                    <td class="auto-style2"><a href="Today.aspx">TODAY'S DISH</a></td>
+                    <td class="auto-style2"><a href="Suggest.aspx">SUGGEST A RECIPE</a></td>
+                    <td class="auto-style2"><a href="AboutUs.aspx">ABOUT US</a></td>
+                    <td class="auto-style2"><a href="Contact.aspx">CONTACT</a></td>
+                </tr>
+            </table>
+        </div>
+        <div style="height: 25px; width: 900px; margin-left: 500px">
+        </div>
+        <div style="border-color: #CCCCCC; height: auto; width: 900px; margin-left: 500px;">
+
+            <div style="height: auto; width: 250px; background-color: #0099CC; float: left; font-weight: 700;">
+                <span class="auto-style3">CATEGORIES<br />
+                </span>
+                <br />
+                <asp:DataList ID="DataList1" runat="server" style="margin-left: 0px" Width="250px">
+                    <ItemTemplate>
+                        <div style="border: thin solid #808080">
+                            <a href="CategoryDetail.aspx?CategoryID=<%#Eval("CategoryID")%>">
+                            <asp:Label ID="Label1" runat="server" Text='<%# Eval("CategoryName") %>'></asp:Label></a>
+                            &nbsp;( <asp:Label ID="Label2" runat="server" Text='<%# Eval("CategoryCount") %>'></asp:Label>
+                            )</div>
+                    </ItemTemplate>
+                </asp:DataList>
+            </div>
+
+            <div style="height: auto; width: 550px; background-color: #0099CC; margin-left: 100px; float: left">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <asp:DataList ID="DataList2" runat="server" Width="542px">
+                        <ItemTemplate>
+                            <table class="auto-style4">
+                                <tr>
+                                    <td class="auto-style7"><strong><a href="Details.aspx?DishID=<%#Eval("DishID") %>">
+                                        <asp:Label ID="Label3" runat="server" CssClass="auto-style3" Text='<%# Eval("DishName") %>'></asp:Label>
+                                        </a></strong></td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Ingredients : </strong>
+                                        <asp:Label ID="Label4" runat="server" CssClass="auto-style6" Text='<%# Eval("DishIngredients") %>'></asp:Label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Instructions : </strong>
+                                        <asp:Label ID="Label5" runat="server" CssClass="auto-style6" Text='<%# Eval("DishInstructions") %>'></asp:Label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style5">
+                                        <asp:Image ID="Image1" runat="server" Height="210px" ImageUrl='<%# Eval("DishImage") %>' Width="410px" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style5">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Rating : </strong>
+                                        <asp:Label ID="Label6" runat="server" CssClass="auto-style6" Text='<%# Eval("CreationDate") %>'></asp:Label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Date : </strong>
+                                        <asp:Label ID="Label7" runat="server" CssClass="auto-style6" Text='<%# Eval("DishRating") %>'></asp:Label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="border-bottom-style: groove; border-bottom-width: thick; border-bottom-color: #800000">&nbsp;</td>
+                                </tr>
+                            </table>
+                        </ItemTemplate>
+                    </asp:DataList>
+                </asp:ContentPlaceHolder>
+            </div>
+
+        </div>
+
+
+    </form>
+</body>
+</html>
+
+
+
+
+<%--<div style="height: 250px; width: 250px; margin-left: 500px; background-color: #0099CC;">
+
+    <div style="height: 400px; width: 500px; margin-left: 400px; background-color: #0099CC;">
+        
+    </div>
+</div>--%>

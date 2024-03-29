@@ -1,0 +1,111 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="RecipeWebPage.Admin" %>
+
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <link href="UserStyleSheet.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        
+        .auto-style5 {
+            text-align: center;
+        }
+
+        .auto-style6 {
+            width: 100%;
+        }
+        .auto-style7 {
+            margin-left: 80px;
+        }
+        .auto-style8 {
+            font-size: x-large;
+        }
+        .auto-style9 {
+            height: 279px;
+            width: 250px;
+            float: left;
+        }
+        .auto-style10 {
+            height: 281px;
+            width: 900px;
+        }
+
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="height: 150px; width: 900px; margin-left: 500px; background-color: #0099CC;">
+            <div class="auto-style5">
+
+                <asp:Image ID="Image2" runat="server" Height="147px" ImageUrl="https://i.hizliresim.com/946rqj7.jpg" Width="895px" />
+
+            </div>
+        </div>
+        <div style="height: 25px; width: 900px; margin-left: 500px">
+        </div>
+        
+        <div style="border-color: #CCCCCC; margin-left: 500px;" class="auto-style10">
+
+            <div style="background-color: #0099CC; font-weight: 700;" class="auto-style9">
+                <table class="auto-style6">
+                    <tr>
+                        <td class="auto-style8">MENU</td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td style="border: thin solid #FFFFFF"> <a href="Categories.aspx">CATEGORIES</a></td>
+                    </tr>
+                    <tr>
+                        <td style="border: thin solid #FFFFFF"><a href="Dishes.aspx">DISHES</a></td>
+                    </tr>
+                    <tr>
+                        <td style="border: thin solid #FFFFFF"><a href="Comments.aspx">COMMENTS</a></td>
+                    </tr>
+                    <tr>
+                        <td style="border: thin solid #FFFFFF"><a href="Comments.aspx">MESSAGES</a></td>
+                    </tr>
+                    <tr>
+                        <td style="border: thin solid #FFFFFF"><a href="TodayAdmin.aspx">TODAY&#39;S DISHES</a></td>
+                    </tr>
+                    <tr>
+                        <td style="border: thin solid #FFFFFF"><a href="Recipes.aspx">RECIPES</a></td>
+                    </tr>
+                    <tr>
+                        <td style="border: thin solid #FFFFFF"><a href="Recipes.aspx">ABOUT US</a></td>
+                    </tr>
+                </table>
+&nbsp;&nbsp;&nbsp;
+                <p class="auto-style7">
+                <br />
+                </p>
+            </div>
+
+            <div style="height: auto; width: 550px; background-color: #0099CC; margin-left: 100px; float: left">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    
+                </asp:ContentPlaceHolder>
+            </div>
+
+        </div>
+
+
+    </form>
+</body>
+</html>
+
+
+
+
+<%--<div style="height: 250px; width: 250px; margin-left: 500px; background-color: #0099CC;">
+
+    <div style="height: 400px; width: 500px; margin-left: 400px; background-color: #0099CC;">
+        
+    </div>
+</div>--%>

@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\aboutusadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\aboutusadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\suggestdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\suggestdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\aboutusadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\aboutusadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\dishupdate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\dishupdate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\recipes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\recipes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\recipes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\recipes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\suggestdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\suggestdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\messagedetailaspx.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\messagedetailaspx.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\messagedetailaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\messagedetailaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\messages.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\messages.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\dishupdate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\dishupdate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\todayadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\todayadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\todayadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\todayadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_10\\recipewebpage\\recipewebpage\\categories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7DB27-6152-46AC-94B3-FF9C9AFF71C8}|RecipeWebPage\\RecipeWebPage.csproj|solutionrelative:recipewebpage\\categories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutUsAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\AboutUsAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "RecipeWebPage\\AboutUsAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\AboutUsAdmin.aspx.cs",
+              "RelativeToolTip": "RecipeWebPage\\AboutUsAdmin.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADgvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:38:11.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutUsAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\AboutUsAdmin.aspx",
+              "RelativeDocumentMoniker": "RecipeWebPage\\AboutUsAdmin.aspx",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\AboutUsAdmin.aspx",
+              "RelativeToolTip": "RecipeWebPage\\AboutUsAdmin.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-29T00:34:05.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuggestDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\SuggestDetail.aspx",
+              "RelativeDocumentMoniker": "RecipeWebPage\\SuggestDetail.aspx",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\SuggestDetail.aspx",
+              "RelativeToolTip": "RecipeWebPage\\SuggestDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-29T00:02:42.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recipes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Recipes.aspx.cs",
+              "RelativeDocumentMoniker": "RecipeWebPage\\Recipes.aspx.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Recipes.aspx.cs",
+              "RelativeToolTip": "RecipeWebPage\\Recipes.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T23:17:00.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recipes.aspx",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Recipes.aspx",
+              "RelativeDocumentMoniker": "RecipeWebPage\\Recipes.aspx",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Recipes.aspx",
+              "RelativeToolTip": "RecipeWebPage\\Recipes.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T23:11:41.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DishUpdate.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\DishUpdate.aspx.cs",
+              "RelativeDocumentMoniker": "RecipeWebPage\\DishUpdate.aspx.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\DishUpdate.aspx.cs",
+              "RelativeToolTip": "RecipeWebPage\\DishUpdate.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T23:03:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DishUpdate.aspx",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\DishUpdate.aspx",
+              "RelativeDocumentMoniker": "RecipeWebPage\\DishUpdate.aspx",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\DishUpdate.aspx",
+              "RelativeToolTip": "RecipeWebPage\\DishUpdate.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T22:56:58.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categories.aspx",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Categories.aspx",
+              "RelativeDocumentMoniker": "RecipeWebPage\\Categories.aspx",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Categories.aspx",
+              "RelativeToolTip": "RecipeWebPage\\Categories.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T22:38:33.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SuggestDetail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\SuggestDetail.aspx.cs",
+              "RelativeDocumentMoniker": "RecipeWebPage\\SuggestDetail.aspx.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\SuggestDetail.aspx.cs",
+              "RelativeToolTip": "RecipeWebPage\\SuggestDetail.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:09:43.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.aspx",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Details.aspx",
+              "RelativeDocumentMoniker": "RecipeWebPage\\Details.aspx",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Details.aspx",
+              "RelativeToolTip": "RecipeWebPage\\Details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-29T00:03:08.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageDetailaspx.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\MessageDetailaspx.aspx.cs",
+              "RelativeDocumentMoniker": "RecipeWebPage\\MessageDetailaspx.aspx.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\MessageDetailaspx.aspx.cs",
+              "RelativeToolTip": "RecipeWebPage\\MessageDetailaspx.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:51:06.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Messages.aspx",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Messages.aspx",
+              "RelativeDocumentMoniker": "RecipeWebPage\\Messages.aspx",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Messages.aspx",
+              "RelativeToolTip": "RecipeWebPage\\Messages.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T22:40:06.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessageDetailaspx.aspx",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\MessageDetailaspx.aspx",
+              "RelativeDocumentMoniker": "RecipeWebPage\\MessageDetailaspx.aspx",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\MessageDetailaspx.aspx",
+              "RelativeToolTip": "RecipeWebPage\\MessageDetailaspx.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T22:45:56.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodayAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\TodayAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "RecipeWebPage\\TodayAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\TodayAdmin.aspx.cs",
+              "RelativeToolTip": "RecipeWebPage\\TodayAdmin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:37:53.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TodayAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\TodayAdmin.aspx",
+              "RelativeDocumentMoniker": "RecipeWebPage\\TodayAdmin.aspx",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\TodayAdmin.aspx",
+              "RelativeToolTip": "RecipeWebPage\\TodayAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T22:23:18.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Categories.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Categories.aspx.cs",
+              "RelativeDocumentMoniker": "RecipeWebPage\\Categories.aspx.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_10\\RecipeWebPage\\RecipeWebPage\\Categories.aspx.cs",
+              "RelativeToolTip": "RecipeWebPage\\Categories.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:38:57.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
